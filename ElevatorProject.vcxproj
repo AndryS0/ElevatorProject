@@ -130,7 +130,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CLIElevatorManager.cpp" />
     <ClCompile Include="ElevatorButton.cpp" />
     <ClCompile Include="ElevatorController.cpp" />
     <ClCompile Include="ElevatorDoor.cpp" />
@@ -141,7 +140,6 @@
     <ClCompile Include="StateNotifier.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CLIElevatorManager.h" />
     <ClInclude Include="ElevatorButton.h" />
     <ClInclude Include="ElevatorController.h" />
     <ClInclude Include="ElevatorDoor.h" />
